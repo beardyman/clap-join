@@ -1,0 +1,16 @@
+{
+  "name": "clap-join",
+  "version": "1.0.0",
+  "description": "Wraps and joins any phrase given to it with 👏 emoji. Can be used in cli as 'clap this is my phrase'",
+  "bin": {
+    "clap": "./bin/clap.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
