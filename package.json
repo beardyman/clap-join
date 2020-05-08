@@ -1,6 +1,6 @@
 {
   "name": "clap-join",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wraps and joins any phrase given to it with 👏 emoji. Can be used in cli as 'clap this is my phrase'",
   "repository": {
     "type": "git",
@@ -14,7 +14,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "clap", "string"
+    "clap",
+    "string"
   ],
   "author": "",
   "license": "ISC",
