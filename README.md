@@ -3,7 +3,7 @@
 ## Usage
 ```shell script
 clap "Why did you do this?"
-# Output: 👏Why👏did👏you👏do👏this?👏
+# Output: Why👏did👏you👏do👏this?👏
 ```
 
 ### Use it in your code too!!! 
@@ -11,7 +11,7 @@ clap "Why did you do this?"
 const clap = require('clap');
 
 console.log(clap('Why did you do this?'))
-// Output: 👏Why👏did👏you👏do👏this?👏
+// Output: Why👏did👏you👏do👏this?👏
 ```
 
 ## Installation
