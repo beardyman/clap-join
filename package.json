@@ -1,13 +1,13 @@
 {
   "name": "clap-join",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Adds clap-back any phrase given to it with 👏 emoji. Can be used in cli as 'clap this is my phrase'",
   "repository": {
     "type": "git",
     "url": "https://github.com/beardyman/clap-join"
   },
   "bin": {
-    "clap": "./bin/clap.js"
+    "clap": "bin/clap.js"
   },
   "main": "index.js",
   "scripts": {
