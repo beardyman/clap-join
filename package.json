@@ -1,7 +1,7 @@
 {
   "name": "clap-join",
   "version": "1.0.1",
-  "description": "Wraps and joins any phrase given to it with 👏 emoji. Can be used in cli as 'clap this is my phrase'",
+  "description": "Adds clap-back any phrase given to it with 👏 emoji. Can be used in cli as 'clap this is my phrase'",
   "repository": {
     "type": "git",
     "url": "https://github.com/beardyman/clap-join"
@@ -18,6 +18,5 @@
     "string"
   ],
   "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "ISC"
 }
